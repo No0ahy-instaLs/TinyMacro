@@ -51,7 +51,7 @@ TinyMacro is a Windows desktop automation tool that records and replays mouse an
 
 ## 📄 License
 
-Choose a license before redistributing or modifying this project. If you intend to make it open source, consider the MIT License.
+MIT
 
 ---
 
